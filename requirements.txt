@@ -1,0 +1,3 @@
+boto3>=1.34.0
+colorama>=0.4.6
+networkx>=3.2.1
