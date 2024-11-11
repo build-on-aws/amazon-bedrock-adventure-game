@@ -5,7 +5,7 @@ Introducing "The Adventure Game", a concept for the November 2024 "AWS Game Buil
 ![Adventure Game](img/adventure-game.jpg)
 
 
-For a more detailed overview of the project, including how to customize and update the game,please see this blog post: [Building an Open-Ended Text-Based RPG with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-an-open-ended-text-based-rpg-with-amazon-bedrock/)
+For a more detailed overview of the project, including how to customize and update the game,please see this blog post: [My Generative Adventure Game](https://community.aws/content/2ogvbYrb6RzMIvNX3ZvQIYSBa9j/my-generative-adventure-game)
 
 ### Note on Cost:
 
