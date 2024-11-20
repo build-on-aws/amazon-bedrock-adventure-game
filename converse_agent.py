@@ -97,7 +97,7 @@ class ConverseAgent:
 
         elif stop_reason == 'max_tokens':
             # Hit token limit (this is one way to handle it.)
-            self.invoke_with_prompt(self, 'Please continue.')
+            self.invoke_with_prompt('Please continue.')
 
         else:
             raise ValueError(f"Unknown stop reason: {stop_reason}")
